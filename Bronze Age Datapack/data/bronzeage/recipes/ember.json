@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "category": "equipment",
+    "ingredient": {
+        "tag": "minecraft:log"
+    },
+    "result": "minecraft:flint_and_steel",
+    "cookingtime": 6000
+}

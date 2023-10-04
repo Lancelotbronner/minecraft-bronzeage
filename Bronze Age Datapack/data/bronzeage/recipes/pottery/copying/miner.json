@@ -1,0 +1,16 @@
+{
+  "category" : "misc",
+  "ingredients" : [
+    {
+      "item" : "minecraft:miner_pottery_sherd"
+    },
+    {
+      "item" : "minecraft:brick"
+    }
+  ],
+  "result" : {
+    "count" : 2,
+    "item" : "minecraft:miner_pottery_sherd"
+  },
+  "type" : "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"#": {
+			"item": "minecraft:brick"
+		},
+		"-": [
+			{
+				"tag": "minecraft:dirt"
+			},
+			{
+				"item": "minecraft:sand"
+			}
+		]
+	},
+	"pattern": [
+		"#-#",
+		" # "
+	],
+	"result": {
+		"item": "minecraft:flower_pot",
+		"count": 3
+	},
+	"show_notification": true
+}

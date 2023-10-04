@@ -1,0 +1,20 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "category" : "equipment",
+  "keys" : {
+    "O" : {
+      "item" : "minecraft:diamond"
+    },
+    "W" : {
+      "tag" : "minecraft:planks"
+    }
+  },
+  "pattern" : [
+    "WoW",
+    "WWW",
+    " W "
+  ],
+  "result" : {
+    "item" : "minecraft:shield"
+  }
+}

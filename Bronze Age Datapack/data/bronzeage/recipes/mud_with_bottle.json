@@ -1,0 +1,16 @@
+{
+    "category" : "misc",
+    "ingredients" : [
+      {
+        "item" : "minecraft:dirt"
+      },
+      {
+        "item" : "minecraft:water_bottle"
+      }
+    ],
+    "result" : {
+      "count" : 1,
+      "item" : "minecraft:mud"
+    },
+    "type" : "minecraft:crafting_shapeless"
+  }

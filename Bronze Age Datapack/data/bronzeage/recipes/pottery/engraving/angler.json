@@ -1,0 +1,10 @@
+{
+  "category" : "misc",
+  "ingredient" : {
+    "item" : "minecraft:brick"
+  },
+  "result" : {
+    "item" : "minecraft:angler_pottery_sherd"
+  },
+  "type" : "minecraft:stonecutting"
+}

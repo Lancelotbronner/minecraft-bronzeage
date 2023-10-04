@@ -1,0 +1,10 @@
+{
+  "category" : "misc",
+  "ingredient" : {
+    "item" : "minecraft:brick"
+  },
+  "result" : {
+    "item" : "minecraft:heart_pottery_sherd"
+  },
+  "type" : "minecraft:stonecutting"
+}

@@ -1,0 +1,10 @@
+{
+  "category" : "misc",
+  "ingredient" : {
+    "item" : "minecraft:brick"
+  },
+  "result" : {
+    "item" : "minecraft:arms_up_pottery_sherd"
+  },
+  "type" : "minecraft:stonecutting"
+}
