@@ -3,8 +3,7 @@
   "ingredient" : {
     "item" : "minecraft:brick"
   },
-  "result" : {
-    "item" : "minecraft:prize_pottery_sherd"
-  },
+  "result" : "minecraft:prize_pottery_sherd",
+  "count": 1,
   "type" : "minecraft:stonecutting"
 }

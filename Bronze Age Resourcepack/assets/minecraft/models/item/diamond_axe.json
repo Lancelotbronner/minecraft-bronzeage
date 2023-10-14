@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/iron_axe",
-		"particle": "item/iron_axe"
+		"0": "item/diamond_axe",
+		"particle": "item/diamond_axe"
 	},
 	"elements": [
 		{
-			"name": "iron_axe_0",
+			"name": "diamond_axe_0",
 			"from": [9, 14, 7.5],
 			"to": [12, 16, 8.5],
 			"faces": {
@@ -19,7 +19,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_1",
+			"name": "diamond_axe_1",
 			"from": [8, 10, 7.5],
 			"to": [9, 15, 8.5],
 			"faces": {
@@ -32,7 +32,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_2",
+			"name": "diamond_axe_2",
 			"from": [12, 10, 7.5],
 			"to": [13, 15, 8.5],
 			"faces": {
@@ -45,7 +45,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_3",
+			"name": "diamond_axe_3",
 			"from": [7, 11, 7.5],
 			"to": [8, 14, 8.5],
 			"faces": {
@@ -58,7 +58,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_4",
+			"name": "diamond_axe_4",
 			"from": [9, 13, 7.5],
 			"to": [10, 14, 8.5],
 			"faces": {
@@ -71,7 +71,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_5",
+			"name": "diamond_axe_5",
 			"from": [11, 9, 7.5],
 			"to": [12, 14, 8.5],
 			"faces": {
@@ -84,7 +84,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_6",
+			"name": "diamond_axe_6",
 			"from": [13, 11, 7.5],
 			"to": [14, 14, 8.5],
 			"faces": {
@@ -97,7 +97,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_7",
+			"name": "diamond_axe_7",
 			"from": [10, 8, 7.5],
 			"to": [11, 13, 8.5],
 			"faces": {
@@ -110,7 +110,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_8",
+			"name": "diamond_axe_8",
 			"from": [14, 12, 7.5],
 			"to": [15, 13, 8.5],
 			"faces": {
@@ -123,7 +123,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_9",
+			"name": "diamond_axe_9",
 			"from": [9, 7, 7.5],
 			"to": [10, 12, 8.5],
 			"faces": {
@@ -136,7 +136,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_10",
+			"name": "diamond_axe_10",
 			"from": [15, 11, 7.5],
 			"to": [16, 12, 8.5],
 			"faces": {
@@ -149,7 +149,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_11",
+			"name": "diamond_axe_11",
 			"from": [13, 9, 7.5],
 			"to": [14, 10, 8.5],
 			"faces": {
@@ -162,7 +162,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_12",
+			"name": "diamond_axe_12",
 			"from": [8, 6, 7.5],
 			"to": [9, 9, 8.5],
 			"faces": {
@@ -175,7 +175,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_13",
+			"name": "diamond_axe_13",
 			"from": [7, 2, 7.5],
 			"to": [8, 8, 8.5],
 			"faces": {
@@ -188,7 +188,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_14",
+			"name": "diamond_axe_14",
 			"from": [11, 7, 7.5],
 			"to": [12, 8, 8.5],
 			"faces": {
@@ -201,7 +201,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_15",
+			"name": "diamond_axe_15",
 			"from": [6, 4, 7.5],
 			"to": [7, 7, 8.5],
 			"faces": {
@@ -214,7 +214,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_16",
+			"name": "diamond_axe_16",
 			"from": [5, 3, 7.5],
 			"to": [6, 6, 8.5],
 			"faces": {
@@ -227,7 +227,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_17",
+			"name": "diamond_axe_17",
 			"from": [4, 2, 7.5],
 			"to": [5, 5, 8.5],
 			"faces": {
@@ -240,7 +240,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_18",
+			"name": "diamond_axe_18",
 			"from": [3, 1, 7.5],
 			"to": [4, 4, 8.5],
 			"faces": {
@@ -253,7 +253,7 @@
 			}
 		},
 		{
-			"name": "iron_axe_19",
+			"name": "diamond_axe_19",
 			"from": [2, 1, 7.5],
 			"to": [3, 3, 8.5],
 			"faces": {
@@ -302,7 +302,7 @@
 	},
 	"groups": [
 		{
-			"name": "iron_axe",
+			"name": "diamond_axe",
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]

@@ -4,18 +4,10 @@
 	"key": {
 		"#": {
 			"item": "minecraft:brick"
-		},
-		"-": [
-			{
-				"tag": "minecraft:dirt"
-			},
-			{
-				"item": "minecraft:sand"
-			}
-		]
+		}
 	},
 	"pattern": [
-		"#-#",
+		"# #",
 		" # "
 	],
 	"result": {
